@@ -1,0 +1,2 @@
+- [アカウントの作り方](ja/how-to-make-account.md)
+- [Webページの作り方](ja/how-to-make-webpage.md)
